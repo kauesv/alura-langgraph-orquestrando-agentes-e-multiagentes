@@ -1,0 +1,17 @@
+google-genai==1.75.0
+langchain-google-genai==4.2.2
+langchain-community==0.4.1
+langchain-tavily==0.2.18
+langgraph==1.2.0
+langgraph-checkpoint-sqlite==3.1.0
+python-dotenv==1.2.2
+openrouter==0.9.1
+langchain-openrouter==0.2.3
+tavily-python==0.7.25
+ddgs==9.14.4
+beautifulsoup4==4.14.3
+selenium==4.44.0
+webdriver-manager==4.1.1
+aiosqlite==0.22.1
+gradio==6.16.0
+langmem==0.0.30
